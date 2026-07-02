@@ -16,7 +16,7 @@ Bypassing platform-specific dependencies like `<windows.h>`, the system features
 
 ## 📂 Project Structure
 
-* `main.c` — The complete physics and simulation routine.
+* `procedural_2d_game_engine.c` — The complete physics and simulation routine.
 
 ## 💻 Compilation & Local Execution
 
@@ -26,7 +26,4 @@ This engine compiles out of the box using any standard C compiler (`gcc`, `clang
 
 1. Open your Mac Terminal.
 
-2. Navigate directly to your local project directory:
-
-   ```bash
-   cd /Users/boda/Desktop/Procedural-2D-Physics-Engine
+2. Navigate directly to your local project directory.
